@@ -1,6 +1,6 @@
 # quiz_app
 
-A new Flutter project.
+Proyecto de ensayo para curso de Flutter en Udemy.
 
 ## Getting Started
 
