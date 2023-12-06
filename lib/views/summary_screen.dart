@@ -69,7 +69,7 @@ class _SummaryScreenState extends State<SummaryScreen> {
                               widget.userAnswers[index]
                           ? Colors.green
                           : Colors.red,
-                      size: 48,
+                      size: 24,
                     ),
                     Text(
                       'Your answer:',
@@ -113,7 +113,7 @@ class _SummaryScreenState extends State<SummaryScreen> {
                         ),
                       ),
                     ),
-                    const SizedBox(height: 30),
+                    const SizedBox(height: 5),
                     Padding(
                       padding: const EdgeInsets.all(8.0),
                       child: Text(
